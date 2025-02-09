@@ -92,7 +92,7 @@ export default function Ticket({ ticketId }: { ticketId: Id<"tickets"> }) {
               <div>
                 <p className="text-sm text-gray-500">Ticket Holder</p>
                 <p className="font-medium">{user.name}</p>
-                <p className="text-sm text-gray-500">{user.email}</p>
+                <p className="text-xs text-gray-500">{user.email}</p>
               </div>
             </div>
 
@@ -112,7 +112,7 @@ export default function Ticket({ ticketId }: { ticketId: Id<"tickets"> }) {
               />
               <div>
                 <p className="text-sm text-gray-500">Ticket Price</p>
-                <p className="font-medium">£{ticket.event.price.toFixed(2)}</p>
+                <p className="font-medium">{ticket.event.price.toFixed(2)}€</p>
               </div>
             </div>
           </div>
