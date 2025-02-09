@@ -1,0 +1,92 @@
+[
+    {
+      "name": "Beyoncé Renaissance Tour",
+      "description": "Experience the spectacular performance of Beyoncé on her latest tour!",
+      "price": 599.99,
+      "totalTickets": 120,
+      "location": "SoFi Stadium, Los Angeles",
+      "eventDate": 1730246400000,
+      "userId": "user_3aXYZkLpMNOPqRsTUVWXyfGHijL"
+    },
+    {
+      "name": "UFC 310: Heavyweight Championship",
+      "description": "Watch the live fight for the heavyweight championship title!",
+      "price": 799.99,
+      "totalTickets": 70,
+      "location": "T-Mobile Arena, Las Vegas",
+      "eventDate": 1728993600000,
+      "userId": "user_3bMNTkGxYPVVvRsQWJXyzABCdef"
+    },
+    {
+      "name": "Billie Eilish World Tour",
+      "description": "Join Billie Eilish for an electrifying night of music!",
+      "price": 275.00,
+      "totalTickets": 180,
+      "location": "Madison Square Garden, New York",
+      "eventDate": 1731504000000,
+      "userId": "user_3cPQRmNyZUVVwYJ5MKLStuvGhiJ"
+    },
+    {
+      "name": "Super Bowl LVIII",
+      "description": "The biggest sporting event of the year – don’t miss it!",
+      "price": 1200.00,
+      "totalTickets": 90,
+      "location": "Allegiant Stadium, Las Vegas",
+      "eventDate": 1732118400000,
+      "userId": "user_3dSTUmNzXQVVyL9VINWObksCmnP"
+    },
+    {
+      "name": "Coachella 2025",
+      "description": "The ultimate music festival experience with top artists from around the world!",
+      "price": 499.00,
+      "totalTickets": 5000,
+      "location": "Empire Polo Club, California",
+      "eventDate": 1732723200000,
+      "userId": "user_3eUVWpOXZRVVcLQ1XLWTamvJrtK"
+    },
+    {
+      "name": "The Weeknd After Hours Tour",
+      "description": "An unforgettable night with The Weeknd performing his biggest hits.",
+      "price": 350.00,
+      "totalTickets": 140,
+      "location": "O2 Arena, London",
+      "eventDate": 1733932800000,
+      "userId": "user_3fXWYqRZTTVVdO2VJQYcbtHpzL"
+    },
+    {
+      "name": "Champions League Final 2025",
+      "description": "The battle for Europe’s most prestigious football trophy!",
+      "price": 999.99,
+      "totalTickets": 85,
+      "location": "Wembley Stadium, London",
+      "eventDate": 1735142400000,
+      "userId": "user_3gYZAsUZVUWWfAQ3XLWXdmnJrzM"
+    },
+    {
+      "name": "Taylor Swift | The Eras Tour Finale",
+      "description": "The grand finale of Taylor Swift’s historic Eras Tour!",
+      "price": 699.99,
+      "totalTickets": 110,
+      "location": "AT&T Stadium, Texas",
+      "eventDate": 1736352000000,
+      "userId": "user_3hZABrWXVYWWgB04VJQXelnJrzN"
+    },
+    {
+      "name": "Ed Sheeran Subtract Tour",
+      "description": "Enjoy an intimate evening with Ed Sheeran’s most heartfelt songs.",
+      "price": 175.00,
+      "totalTickets": 130,
+      "location": "Mercedes-Benz Arena, Berlin",
+      "eventDate": 1737561600000,
+      "userId": "user_3iXYWsQTVUXXhC05XLQXfmvJrzO"
+    },
+    {
+      "name": "Hamilton - Broadway",
+      "description": "The Tony Award-winning musical phenomenon returns to Broadway!",
+      "price": 299.99,
+      "totalTickets": 100,
+      "location": "Richard Rodgers Theatre, New York",
+      "eventDate": 1738771200000,
+      "userId": "user_3jXZAqRVYYWWiD06VJQXgmnJrzP"
+    }
+]
