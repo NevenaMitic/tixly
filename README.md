@@ -77,22 +77,10 @@ The easiest way to deploy your Next.js app is using **Vercel**:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
 
-Simply connect your repository and follow the deployment steps.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to **fork** the repository, submit a **pull request**, or open an **issue**.
-
----
-
 ## 📩 Contact
 
 For inquiries, reach out via email: **nevenamitic886@gmail.com**
 
 ---
-
-💡 *Built with love and passion for seamless ticketing!*
 
 
